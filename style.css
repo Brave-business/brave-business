@@ -1,0 +1,29 @@
+BOBY {font-family: arial;
+background: red;
+text-align: center;}
+h1 {background-color: blue;
+text-align: center;
+color: white;}
+h2 {text-align: left;
+color:black;}
+PRODUIT{background: white;
+padding: 15PX;
+border-radius: 10PX}
+PRODUIT img { width:150PX;
+	height: 150PX;
+	object-fit: COVER;
+	border-radius: 10PX;
+ }
+p {
+color:black;}
+button {background-color: green;
+color:white;
+padding: 10PX 20PX;
+cursor: pointer;
+font-size: 16PX}
+NAV {color: white;
+text-align:right;
+}
+img {image-rendering: CENTER}
+
+whatsapp-btn: hover {background-color: green;}
