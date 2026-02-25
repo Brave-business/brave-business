@@ -5,7 +5,7 @@ h1 {background-color: blue;
 text-align: center;
 color: white;}
 h2 {text-align: left;
-color:black;}
+color:blueviolet;}
 PRODUIT{background: white;
 padding: 15PX;
 border-radius: 10PX}
@@ -27,3 +27,4 @@ text-align:right;
 img {image-rendering: CENTER}
 
 whatsapp-btn: hover {background-color: green;}
+H4 {color: orange}
